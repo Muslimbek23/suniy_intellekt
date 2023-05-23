@@ -1,1 +1,2 @@
-# suniy_intellekt
+# suniy_intellekt  
+Ushbu repozitory test uchun
